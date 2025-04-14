@@ -4,7 +4,10 @@ An archive of news coverage related to the legal dispute between FIFTY FIFTY and
 
 ## License
 
-This project is released under [The Unlicense](https://unlicense.org/), which means you can do anything with it. No permission is needed.
+Where applicable:
+
+- Source code (e.g. JavaScript, CSS) is released under [The Unlicense](https://unlicense.org/).
+- Non-code content (e.g. HTML, text, metadata) is released under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
 
 ## Third-party Licenses and Credits
 
